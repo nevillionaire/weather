@@ -43,7 +43,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Contributors
 
-[Neville]: https://github.com/nevillionaire
+[Neville](https://github.com/nevillionaire)
 
 ### License
 MIT
