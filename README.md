@@ -1,15 +1,3 @@
-[![Build Status][build-badge]][build]
-[![Code Coverage][coverage-badge]][coverage]
-[![downloads][downloads-badge]][npmcharts] [![version][version-badge]][package]
-[![MIT License][license-badge]][license]
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-113-orange.svg?style=flat-square)](#contributors)
-[![PRs Welcome][prs-badge]][prs]
-
-[![size][size-badge]][unpkg-dist]
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -53,15 +41,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Contributors
 
+[Neville]: https://github.com/nevillionaire
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
+### License
+MIT
